@@ -1,2 +1,2 @@
 # os211
- OS Course Repository of Fauzan Hanandito
+ OS Course Repository in 2021 even semester of Fauzan Hanandito
