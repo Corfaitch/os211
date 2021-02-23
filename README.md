@@ -1,2 +1,2 @@
 # os211
- OS Course Repository in 2021 even semester of Fauzan Hanandito
+ Operting System 2021-1 by Fauzan Hanandito
