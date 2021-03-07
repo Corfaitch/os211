@@ -15,3 +15,15 @@ ZCZC W00 10 L05 Seeking information about role and function of OS
 ZCZC W00 8 L99 Putting more study to Obsidian
 ZCZC W00 66 L21 Installing Debian on VirtualBox
 ZCZC W00 7 L00 Putting the info of time tracking into mylog
+ZCZC W01 10 L11 Realizing that the Guest has been installed in Debian
+ZCZC W01 51 L12 Reading on the commands of Debian
+ZCZC W01 23 L13 Trying the commands
+ZCZC W01 15 L13 Trying to make a sudo user
+ZCZC W01 19 L13 Still trying to make a sudo user
+ZCZC W01 13 L13 Investigating why I can't make sudo user
+ZCZC W01 37 L13 Still continuing with the investigation
+ZCZC W01 24 L13 Installing Vim
+ZCZC W01 25 L14 Making a guest username (corfaitchtwo)
+ZCZC W01 67 L15 Setting up the GitHub
+ZCZC W01 19 L15 Cloning the GitHub repos of os211 to Debian
+ZCZC W01 9 L16 Making the report
