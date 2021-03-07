@@ -27,3 +27,8 @@ ZCZC W01 25 L14 Making a guest username (corfaitchtwo)
 ZCZC W01 67 L15 Setting up the GitHub
 ZCZC W01 19 L15 Cloning the GitHub repos of os211 to Debian
 ZCZC W01 9 L16 Making the report
+ZCZC W01 80 L17 Making the top 10 links .md file
+ZCZC W01 4 L18 Learn more about bash comamands
+ZCZC W01 4 L18 Learn more about regex commands
+ZCZC W01 5 L18 Learn more about awk commands
+ZCZC W01 5 L18 Learn more about sed commands
