@@ -32,3 +32,14 @@ ZCZC W01 4 L18 Learn more about bash comamands
 ZCZC W01 4 L18 Learn more about regex commands
 ZCZC W01 5 L18 Learn more about awk commands
 ZCZC W01 5 L18 Learn more about sed commands
+ZCZC W02 65 L10 Reading assignment
+ZCZC W02 101 L10 Trying the demo
+ZCZC W02 15  L23 Pop Quiz
+ZCZC W02 18 L10 Still trying demo
+ZCZC W02 11 L10 Generate a GnuPG Key Pair
+ZCZC W02 4 L10 Public Key Import
+ZCZC W02 25 L10 Public Key Export
+ZCZC W02 10 L10 Listing the best neighbour
+ZCZC W02 86 L10 Making Week 02 Top 10
+ZCZC W02 20 L10 copying bash script
+ZCZC W02 8 L10 Updating mylog.txt for this week
