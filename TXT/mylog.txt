@@ -43,3 +43,11 @@ ZCZC W02 10 L10 Listing the best neighbour
 ZCZC W02 86 L10 Making Week 02 Top 10
 ZCZC W02 20 L10 copying bash script
 ZCZC W02 8 L10 Updating mylog.txt for this week
+ZCZC W03 25 L23 Pop Quiz
+ZCZC W03 25 L10 Week 03 Demo
+ZCZC W03 7 L10 Check Bash Aliases
+ZCZC W03 25 L10 Listing the best neighbour
+ZCZC W03 106 L10 Making Week 03 Top 10
+ZCZC W03 120 L10 Dealing with Fuse
+ZCZC W03 15 L10 Copying the script and running it
+ZCZC W03 5 L10 Updating the log
