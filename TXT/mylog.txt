@@ -51,3 +51,12 @@ ZCZC W03 106 L10 Making Week 03 Top 10
 ZCZC W03 120 L10 Dealing with Fuse
 ZCZC W03 15 L10 Copying the script and running it
 ZCZC W03 5 L10 Updating the log
+ZCZC W04 162 L10 Making top 10
+ZCZC W04 136 L10 Recovering Debian file
+ZCZC W05 58 L10 Setting up Debian
+ZCZC W05 88 L10 Recovering from the previous one
+ZCZC W05 5 L10 Top 3 top 10 last week
+ZCZC W05 112 L10 Top 10 this week
+ZCZC W05 14 L10 Generate new key
+ZCZC W05 54 L10 Doing the assignment
+
