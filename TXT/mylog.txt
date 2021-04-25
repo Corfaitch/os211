@@ -59,4 +59,14 @@ ZCZC W05 5 L10 Top 3 top 10 last week
 ZCZC W05 112 L10 Top 10 this week
 ZCZC W05 14 L10 Generate new key
 ZCZC W05 54 L10 Doing the assignment
+ZCZC W06 80 L02 Week 06 Zoom meeting
+ZCZC W06 29 L10 Top 10 stuff
+ZCZC W06 67 L10 Doing study on fork
+ZCZC W06 61 L23 Discussion with MYM regarding a problem
+ZCZC W06 21 L10 Update and check myscript.sh
+ZCZC W06 88 L10 Continuing top 10 stuff
+ZCZC W06 63 L99 Help mom before continuing assignment
+ZCZC W06 8 L10 Updating mylog.txt
+ZCZC W06 48 L99 Sleep and rest
+ZCZC W06 113 L99 Another sleep
 
