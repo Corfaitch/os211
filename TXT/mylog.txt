@@ -71,3 +71,5 @@ ZCZC W06 48 L99 Sleep and rest
 ZCZC W06 113 L99 Another sleep
 ZCZC W07 307 L10 Top 10 + sleep while doing it + iftar
 ZCZC W07 204 L10 Learning to set up PuTTY
+ZCZC W08 86 L10 Top 10
+ZCZC W08 314 L10 Setting up Putty + LFS 0-2
