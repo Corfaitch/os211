@@ -73,3 +73,9 @@ ZCZC W07 307 L10 Top 10 + sleep while doing it + iftar
 ZCZC W07 204 L10 Learning to set up PuTTY
 ZCZC W08 86 L10 Top 10
 ZCZC W08 314 L10 Setting up Putty + LFS 0-2
+ZCZC W09 123 L10 LFS Chapter 5
+ZCZC W09 43 L10 Continue LFS Chapter 5 + Backup
+ZCZC W09 79 L10 LFS Chapter 6
+ZCZC W09 117 L10 LFS Continue Chapter 6
+ZCZC W09 33 L10 LFS Chapter 7
+ZCZC W09 451 L10 LFS Continuing LFS Chapter 7
